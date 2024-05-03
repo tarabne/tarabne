@@ -24,6 +24,7 @@
 
 ## Мои проекты:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tarabne&repo=fw_maxidom_ui_tests&theme=shadow_red)](https://github.com/tarabne/fw_maxidom_ui_tests) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tarabne&repo=fw_reqres_api_tests&theme=shadow_green)](https://github.com/tarabne/fw_reqres_api_tests)
 
 <!--
 **tarabne/tarabne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
